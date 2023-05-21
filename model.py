@@ -3,7 +3,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torchaudio
 from transformers import AutoConfig, AutoModel, Wav2Vec2FeatureExtractor
-import librosa
 import numpy as np
 from labels import get_label
 from exceptions import UncertaintyError
