@@ -1,8 +1,8 @@
 import telebot
 from model import get_emotion
+import os
 
-
-API_KEY = '6270609303:AAFclNjxINFltC21Vg4pMfdeWrqn9WGvjoI'
+API_KEY = os.getenv('VOICE_BOT_API_KEY')
 
 bot = telebot.TeleBot(API_KEY)
 
