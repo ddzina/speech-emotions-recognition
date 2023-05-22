@@ -42,4 +42,4 @@ Once you've added and started the bot, users can message the bot with their audi
 
 ## Acknowledgments
 
-This project was built using the pre-trained [Wav2Vec2](https://huggingface.co/Aniemore/wav2vec2-xlsr-53-russian-emotion-recognition) model and the Python Telegram Bot wrapper, [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot). 
+This project was built using the pre-trained [Wav2Vec2](https://huggingface.co/Aniemore/wav2vec2-xlsr-53-russian-emotion-recognition) model and the Python Telegram Bot wrapper, [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI). 
